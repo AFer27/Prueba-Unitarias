@@ -1,2 +1,2 @@
 # Prueba-Unitarias
-Ejercicio de Pruebas Unitarias para el curso de Ingeniería de Software 3, el proyecto Act11 fue realizado en Apache Netbeans empleando solo JUnit, mientras que 
+Ejercicio de Pruebas Unitarias para el curso de Ingeniería de Software 3, el proyecto Act11 fue realizado en Apache Netbeans empleando solo JUnit, mientras que el proyecto Junit-Prueba fue realizado en Eclipse IDE. En este último proyecto está incluido la actividad práctica sobre realizar una calculadora realizando pruebas en JUnit 5, así como, también se incluye la prueba avanzada con Mockito.
